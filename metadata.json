@@ -1,0 +1,7 @@
+{
+  "name": "Financial Lending Platform",
+  "description": "Modern financial lending platform with interactive loan calculators, personalized loan products, credit pre-qualification, multi-step loan applications, and borrower repayment portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
